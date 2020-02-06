@@ -1,5 +1,5 @@
 [
-  { "title": "tests", "body": "asfdfsd", "journal": "food" },
-  { "title": "lskfjsdlk", "body": "sdjlfkjdsklf", "journal": "excercise" },
+  { "title": "tests", "body": "test", "journal": "food" },
+  { "title": "test", "body": "test", "journal": "exercise" },
   { "title": "ouch", "body": "dude", "journal": "food" }
 ]
