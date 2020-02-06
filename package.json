@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/chrishelm82/Note-Taker/issues"
   },
-  "homepage": "https://github.com/chrishelm82/Note-Taker#readme"
+  "homepage": "https://github.com/chrishelm82/Note-Taker#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {}
 }
