@@ -11,3 +11,6 @@ YOU WANT to be able to delete notes you've written before.
 SO THAT you can organize your thoughts and keep track of tasks you need to complete.
 
 TECHNOLOGIES USED: Express NPM
+
+Deployed via Heroku
+https://batman82.herokuapp.com/
