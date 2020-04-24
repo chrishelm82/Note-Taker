@@ -13,4 +13,4 @@ SO THAT you can organize your thoughts and keep track of tasks you need to compl
 TECHNOLOGIES USED: Express NPM
 
 Deployed via Heroku
-https://batman82.herokuapp.com/
+https://takenotes82.herokuapp.com/
